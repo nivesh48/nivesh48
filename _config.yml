@@ -22,10 +22,10 @@ url: "https://nivesh48.github.io" # the base hostname & protocol for your site, 
 twitter_username:  nivesh48
 github_username:  nivesh48
 #linkdein_username: Nivesh Gadipudi
-
+# removed minimal theme
 # Build settings
 markdown: kramdown
-theme: minima
+#theme: minima
 plugins:
   - jekyll-feed
 
