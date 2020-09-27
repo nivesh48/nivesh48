@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
- <link href = "http://localhost:4000/nivesh48/Blogs/Blog-technical/feed.xml" rel = "self" type = "application/atom+xml"/>
- <link href = "http://localhost:4000/nivesh48/Blogs/Blog-technical/" rel = "alternate" type = "text/html"/>
- <updated>2020-09-27T10:00:52+08:00</updated>
- <id>http://localhost:4000/nivesh48/Blogs/Blogs-technical/feed.xml</id>
+ <link href = "http://localhost:4000/nivesh48/Blogs/Blog-Technical/feed.xml" rel = "self" type = "application/atom+xml"/>
+ <link href = "http://localhost:4000/nivesh48/Blogs/Blog-Technical/" rel = "alternate" type = "text/html"/>
+ <updated>2020-09-27T10:04:00+08:00</updated>
+ <id>http://localhost:4000/nivesh48/Blogs/Blogs-Technical/feed.xml</id>
  <title>Hey, there!! Welcome to my page Technical Blog </title>
  <subtitle>Welcome to my website.</subtitle>
    <author>

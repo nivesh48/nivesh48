@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
  <link href = "http://localhost:4000/nivesh48/Blogs/Blog-non-technical/feed.xml" rel = "self" type = "application/atom+xml"/>
  <link href = "http://localhost:4000/nivesh48/Blogs/Blog-non-technical/" rel = "alternate" type = "text/html"/>
- <updated>2020-09-27T10:00:52+08:00</updated>
+ <updated>2020-09-27T10:04:00+08:00</updated>
  <id>http://localhost:4000/nivesh48/Blogs/Blogs-non-technical/feed.xml</id>
  <title>Hey, there!! Welcome to my page Non Technical Blog </title>
  <subtitle>Welcome to my website.</subtitle>
