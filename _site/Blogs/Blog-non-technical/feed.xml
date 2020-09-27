@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+ <link href = "http://localhost:4000/nivesh48/Blogs/Blog-non-technical/feed.xml" rel = "self" type = "application/atom+xml"/>
+ <link href = "http://localhost:4000/nivesh48/Blogs/Blog-non-technical/" rel = "alternate" type = "text/html"/>
+ <updated>2020-09-27T10:06:33+08:00</updated>
+ <id>http://localhost:4000/nivesh48/Blogs/Blogs-non-technical/feed.xml</id>
+ <title>Hey, there!! Welcome to my page Non Technical Blog </title>
+ <subtitle>Welcome to my website.</subtitle>
+   <author>
+    <name>Hey, there!! Welcome to my page</name>
+  </author><entry>
+    <title>second Non Technical</title>
+    <id>http://localhost:4000/nivesh48/blogs/blog-non-technical/nontech/2020/09/26/non-tech2-copy.html</id>
+    <link href = "http://localhost:4000/nivesh48/blogs/blog-non-technical/nontech/2020/09/26/non-tech2-copy.html"/>
+    <updated>2020-09-26T23:14:47+08:00</updated>
+    <summary>Change
+You’ll find this post in your this is my second</summary>
+  </entry><entry>
+    <title>Non Technical</title>
+    <id>http://localhost:4000/nivesh48/blogs/blog-non-technical/nontech/2020/09/25/non-tech1.html</id>
+    <link href = "http://localhost:4000/nivesh48/blogs/blog-non-technical/nontech/2020/09/25/non-tech1.html"/>
+    <updated>2020-09-25T23:14:47+08:00</updated>
+    <summary>Change
+You’ll find this post in your</summary>
+  </entry>
+</feed>
