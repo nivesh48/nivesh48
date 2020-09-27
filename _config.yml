@@ -19,8 +19,10 @@ description: >- # this means to ignore newlines until "baseurl:"
   Welcome to my website.
 baseurl: "/nivesh48" # the subpath of your site, e.g. /blog
 url: "https://nivesh48.github.io" # the base hostname & protocol for your site, e.g. http://example.com
+
 twitter_username:  nivesh48
 github_username:  nivesh48
+author: Nivesh Gadipudi
 #linkdein_username: Nivesh Gadipudi
 # removed minimal theme
 # Build settings
